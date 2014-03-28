@@ -13,7 +13,7 @@ And the ratings are saved as foo.csv, bar.csv, and baz.csv.
 Optional arguments:
 
 <b>--cookies cookies.txt</b>  
-Save IMDb cookies in a text file in format key=value; key=value; [...]
+Load IMDb cookies from a text file in format key=value; key=value; [...]
 
 <b>--retries 100</b>  
 How many attempts to download failed exports.
